@@ -61,3 +61,11 @@ tests/     Vitest unit tests
 ## License
 
 MIT, Chase Builds.
+
+## More from Chase Builds
+
+- **[local-business-site](https://github.com/chasebuilds/local-business-site)**: A fast one-page website with hours, services, map and a quote button, built from one short file. ([live demo](https://chasebuilds.github.io/local-business-site/))
+- **[appointment-booking-api](https://github.com/chasebuilds/appointment-booking-api)**: Online booking that never double-books and gets time zones right. ([live demo](https://chasebuilds.github.io/appointment-booking-api/))
+- **[cost-approach-calculator](https://github.com/chasebuilds/cost-approach-calculator)**: Replacement cost, depreciation and land value, with every step shown. ([live demo](https://chasebuilds.github.io/cost-approach-calculator/))
+
+[All projects, sorted by industry](https://github.com/chasebuilds) · [chasebuilds.github.io](https://chasebuilds.github.io)
